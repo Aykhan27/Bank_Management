@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sX6ST26ppVFemy8wQJfo9B1BnI/feURTGgKfBY0ySDk++Ky7pAnvzBBzOFaRfWg/TYb6FJwqc5sQzzicdwsY/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ruhlan\\source\\repos\\c#\\kursac\\kursac\\kursac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ruhlan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

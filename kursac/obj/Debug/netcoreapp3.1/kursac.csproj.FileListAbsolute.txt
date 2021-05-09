@@ -1,0 +1,15 @@
+C:\Users\Ruhlan\source\repos\c#\kursac\kursac\bin\Debug\netcoreapp3.1\kursac.exe
+C:\Users\Ruhlan\source\repos\c#\kursac\kursac\bin\Debug\netcoreapp3.1\kursac.deps.json
+C:\Users\Ruhlan\source\repos\c#\kursac\kursac\bin\Debug\netcoreapp3.1\kursac.runtimeconfig.json
+C:\Users\Ruhlan\source\repos\c#\kursac\kursac\bin\Debug\netcoreapp3.1\kursac.runtimeconfig.dev.json
+C:\Users\Ruhlan\source\repos\c#\kursac\kursac\bin\Debug\netcoreapp3.1\kursac.dll
+C:\Users\Ruhlan\source\repos\c#\kursac\kursac\bin\Debug\netcoreapp3.1\kursac.pdb
+C:\Users\Ruhlan\source\repos\c#\kursac\kursac\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ruhlan\source\repos\c#\kursac\kursac\obj\Debug\netcoreapp3.1\kursac.csprojAssemblyReference.cache
+C:\Users\Ruhlan\source\repos\c#\kursac\kursac\obj\Debug\netcoreapp3.1\kursac.csproj.CoreCompileInputs.cache
+C:\Users\Ruhlan\source\repos\c#\kursac\kursac\obj\Debug\netcoreapp3.1\kursac.AssemblyInfoInputs.cache
+C:\Users\Ruhlan\source\repos\c#\kursac\kursac\obj\Debug\netcoreapp3.1\kursac.AssemblyInfo.cs
+C:\Users\Ruhlan\source\repos\c#\kursac\kursac\obj\Debug\netcoreapp3.1\kursac.csproj.CopyComplete
+C:\Users\Ruhlan\source\repos\c#\kursac\kursac\obj\Debug\netcoreapp3.1\kursac.dll
+C:\Users\Ruhlan\source\repos\c#\kursac\kursac\obj\Debug\netcoreapp3.1\kursac.pdb
+C:\Users\Ruhlan\source\repos\c#\kursac\kursac\obj\Debug\netcoreapp3.1\kursac.genruntimeconfig.cache
